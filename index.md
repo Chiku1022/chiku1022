@@ -13,6 +13,10 @@ Read further to know more about me.
     Its a simple media player made in Python using the PyQt5 module. Its a desktop application which can play songs and also display its metadata similar to any other media playback software. It can play audio files with an *mp3* or *wav* extensions. It works on Windows 8 and above.
 
 
+### My Status
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chiku1022&show_icons=true" alt="chiku1022" /> </p> 
+
+
 ### Contact Me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/chiku1022)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everything_computerized/)

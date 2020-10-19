@@ -10,7 +10,7 @@ Read further to know more about me.
     While making this project, I learnt how SpeechRecognition engines work, how an application works on a system, how the PyQT framework integrates with python and many other aspects of programming.
     
 2. [PyMediaPlayer](https://github.com/Chiku1022/PyMediaPlayer).
-    Its a simple media player made in Python using the PyQt5 module. Its a desktop application which can run songs and also display its metadata similar to any other media playback software. It can play audio files with an *mp3* or *wav* extensions. It works on Windows 8 and above.
+    Its a simple media player made in Python using the PyQt5 module. Its a desktop application which can play songs and also display its metadata similar to any other media playback software. It can play audio files with an *mp3* or *wav* extensions. It works on Windows 8 and above.
 
 
 ### Contact Me

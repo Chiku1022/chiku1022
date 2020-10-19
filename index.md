@@ -26,6 +26,6 @@ Read further to know more about me.
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everything_computerized/)
 
 ### Support Me
-[![](https://img.shields.io/badge/youtube-%FF00B5.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/everythingcomputerized)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/everythingcomputerized)
 2. [Blog](https://everythingcomputerized-ca.blogspot.com)
 

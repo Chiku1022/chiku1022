@@ -1,30 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my Website
 
-You can use the [editor on GitHub](https://github.com/Chiku1022/chiku1022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Charitra Agarwal. I'm a coding enthusiast and I love creating and experimenting new things.
+Read further to know more about me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+1. [Stark - The Personal Assistant](https://github.com/Chiku1022/Stark-The-Personal-Assistant).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

@@ -16,6 +16,9 @@ Read further to know more about me.
 ### My Status
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chiku1022&show_icons=true" alt="chiku1022" /> </p> 
 
+### My Interests
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android)]()
 
 ### Contact Me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/chiku1022)

@@ -17,8 +17,8 @@ Read further to know more about me.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chiku1022&show_icons=true" alt="chiku1022" /> </p> 
 
 ### My Interests
-[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android)]()
+[![](https://img.shields.io/badge/python-%238cd3ff.svg?&style=for-the-badge&logo=python)]() 
+[![](https://img.shields.io/badge/android-%238cd3ff.svg?&style=for-the-badge&logo=android)]()
 
 
 ### Contact Me

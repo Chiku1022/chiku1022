@@ -20,9 +20,11 @@ Read further to know more about me.
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android)]()
 
+
 ### Contact Me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/chiku1022)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everything_computerized/)
+[![](https://img.shields.io/badge/youtube-cD1?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/everythingcomputerized)
 
 ### Support Me
 1. [YouTube](https://youtube.com/c/everythingcomputerized)

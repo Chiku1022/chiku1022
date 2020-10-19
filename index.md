@@ -14,8 +14,8 @@ Read further to know more about me.
 
 
 ### Contact Me
-1. [LinkedIn](https://in.linkedin.com/in/chiku1022)
-2. [GitHub](https://github.com/Chiku1022)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/chiku1022)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everything_computerized/)
 
 ### Support Me
 1. [YouTube](https://youtube.com/c/everythingcomputerized)

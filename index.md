@@ -6,12 +6,8 @@ Read further to know more about me.
 ### My Projects
 
 1. [Stark - The Personal Assistant](https://github.com/Chiku1022/Stark-The-Personal-Assistant).
+    This is a personal assistant made by me using Python 3 via PyQt5 framework. It can perform a lot of things. You can give it voice commands as well as written commands. A lot more features are present in it. It uses different technologies like SpeechRecognition, GUI framework, etc.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chiku1022/chiku1022.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

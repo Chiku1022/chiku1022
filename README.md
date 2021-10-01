@@ -2,7 +2,7 @@
 <h2 align="center">I'm Charitra Agarwal</h2>
 <h3 align="center">An enthusiast developer and creator based in India</h3>
 
--------------------------------------------------------------------------------------
+----------
 
 
 ## Connect with me!
@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Charitra_Agarwal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charitraagarwal1022@gmail.com)](mailto:charitraagarwal1022@gmail.com) 
 [![YouTube Badge](https://img.shields.io/badge/-Everything_Computerized-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/EverythingComputerized//)](https://www.youtube.com/EverythingComputerized/) 
 
-------------------------------------------------------------------------------
+-------------
 
 ## About
 ### ✔ **Domain :** App Development
@@ -18,7 +18,7 @@
 ### ✔ **Learning :** Javascript, React
 ### ✔ **Hobbies :** Guitar 🎸, Content Writing ✍
 
---------------------------------------------------------------------------
+---------------
 
 ## Contributing to Open-Source
 
@@ -26,13 +26,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiku1022&show_icons=true&theme=radical&locale=en" />
 </a> 
 
-------------------------------
+----------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiku1022&langs_count=5&theme=radical&locale=en" />
 </a> 
 
-------------------------------
+-----------------
 
 ## Few of my Projects
 

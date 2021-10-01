@@ -1,31 +1,49 @@
-## Glad to have you here!
+<h1 align="center">Glad to have you here!😊</h1>
+<h2 align="center">I'm Charitra Agarwal</h2>
+<h3 align="center">An enthusiast developer and creator based in India</h3>
 
-My name is Charitra Agarwal. I'm a coding enthusiast and I love creating and experimenting new things.
-Read further to know more about me.
-
-### My Projects
-
-1. [Stark - The Personal Assistant](https://github.com/Chiku1022/Stark-The-Personal-Assistant).
-    This is a personal assistant made by me using Python 3 via PyQt5 framework. It can perform a lot of things. You can give it voice commands as well as written commands. A lot more features are present in it. It uses different technologies like SpeechRecognition, GUI framework, etc.
-    While making this project, I learnt how SpeechRecognition engines work, how an application works on a system, how the PyQT framework integrates with python and many other aspects of programming.
-    
-2. [PyMediaPlayer](https://github.com/Chiku1022/PyMediaPlayer).
-    Its a simple media player made in Python using the PyQt5 module. Its a desktop application which can play songs and also display its metadata similar to any other media playback software. It can play audio files with an *mp3* or *wav* extensions. It works on Windows 8 and above.
+-------------------------------------------------------------------------------------
 
 
-### My Status
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chiku1022&show_icons=true" alt="chiku1022" /> </p> 
+## Connect with me!
+[![Linkedin Badge](https://img.shields.io/badge/-Charitra_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiku1022//)](https://www.linkedin.com/in/chiku1022/) 
+[![Gmail Badge](https://img.shields.io/badge/-Charitra_Agarwal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charitraagarwal1022@gmail.com)](mailto:charitraagarwal1022@gmail.com) 
+[![YouTube Badge](https://img.shields.io/badge/-Everything_Computerized-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/EverythingComputerized//)](https://www.youtube.com/EverythingComputerized/) 
 
-### My Interests
-[![](https://img.shields.io/badge/python-%238cd3ff.svg?&style=for-the-badge&logo=python)]() 
-[![](https://img.shields.io/badge/android-%238cd3ff.svg?&style=for-the-badge&logo=android)]()
+------------------------------------------------------------------------------
 
+## About
+### ✔ **Domain :** App Development
+### ✔ **Skills :** C++, Python, Git
+### ✔ **Learning :** Javascript, React
+### ✔ **Hobbies :** Guitar 🎸, Content Writing ✍
 
-### Contact Me
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/chiku1022)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everything_computerized/)
+--------------------------------------------------------------------------
 
-### Support Me
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/everythingcomputerized)
-2. [Blog](https://everythingcomputerized-ca.blogspot.com)
+## Contributing to Open-Source
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiku1022&show_icons=true&theme=radical&locale=en" />
+</a> 
+
+------------------------------
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiku1022&langs_count=5&theme=radical&locale=en" />
+</a> 
+
+------------------------------
+
+## Few of my Projects
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiku1022&repo=Stark-The-Personal-Assistant&theme=radical&locale=en" />
+</a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiku1022&repo=PyMediaPlayer&theme=radical&locale=en" />
+</a>
+
+## My Interests
+[![Python Badge](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white)]() 
+[![Android Badge](https://img.shields.io/badge/-android-green?style=flat-square&logo=android&logoColor=white)]() 

@@ -6,7 +6,7 @@
 
 
 ## Connect with me!
-[![Linkedin Badge](https://img.shields.io/badge/-Charitra_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiku1022//)](https://www.linkedin.com/in/chiku1022/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Charitra_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charitra1022//)](https://www.linkedin.com/in/chiku1022/) 
 [![Gmail Badge](https://img.shields.io/badge/-Charitra_Agarwal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charitraagarwal1022@gmail.com)](mailto:charitraagarwal1022@gmail.com) 
 [![YouTube Badge](https://img.shields.io/badge/-Everything_Computerized-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/EverythingComputerized//)](https://www.youtube.com/EverythingComputerized/) 
 
@@ -23,13 +23,13 @@
 ## Contributing to Open-Source
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiku1022&show_icons=true&theme=radical&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charitra1022&show_icons=true&theme=radical&locale=en" />
 </a> 
 
 ----------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiku1022&langs_count=5&theme=radical&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charitra1022&langs_count=5&theme=radical&locale=en" />
 </a> 
 
 -----------------
@@ -37,11 +37,11 @@
 ## Few of my Projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiku1022&repo=Stark-The-Personal-Assistant&theme=radical&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charitra1022&repo=Stark-The-Personal-Assistant&theme=radical&locale=en" />
 </a> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiku1022&repo=PyMediaPlayer&theme=radical&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charitra1022&repo=PyMediaPlayer&theme=radical&locale=en" />
 </a>
 
 ## My Interests

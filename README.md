@@ -6,7 +6,7 @@
 
 
 ## Connect with me!
-[![Linkedin Badge](https://img.shields.io/badge/-Charitra_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charitra1022//)](https://www.linkedin.com/in/chiku1022/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Charitra_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charitra1022//)](https://www.linkedin.com/in/charitra1022/) 
 [![Gmail Badge](https://img.shields.io/badge/-Charitra_Agarwal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charitraagarwal1022@gmail.com)](mailto:charitraagarwal1022@gmail.com) 
 [![YouTube Badge](https://img.shields.io/badge/-Everything_Computerized-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/EverythingComputerized//)](https://www.youtube.com/EverythingComputerized/) 
 

@@ -36,13 +36,17 @@
 
 ## Few of my Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/charitra1022/Stark-The-Personal-Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charitra1022&repo=Stark-The-Personal-Assistant&theme=radical&locale=en" />
 </a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/charitra1022/PyMediaPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charitra1022&repo=PyMediaPlayer&theme=radical&locale=en" />
 </a>
+
+<a href="https://github.com/charitra1022/win-bright">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charitra1022&repo=win-bright&theme=radical&locale=en" />
+</a> 
 
 ## My Interests
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white)]() 

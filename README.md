@@ -46,7 +46,7 @@
 
 <a href="https://github.com/charitra1022/win-bright">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charitra1022&repo=win-bright&theme=radical&locale=en" />
-</a> 
+</a>  
 
 ## My Interests
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white)]() 
